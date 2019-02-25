@@ -1,2 +1,0 @@
-# platzivideo
-video platzi
